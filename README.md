@@ -39,7 +39,7 @@ Este é um log de aprendizado, atualizado continuamente, onde registro meu progr
 
 - **04/11/2024**
     - 3º Teste: 10 pontos - Análise Combinatória e Probabilidade (Disciplina de Fundamentos de Matemática para Tecnologia da Informação do 1º período do curso de Tecnologia em Sistemas para Internet, [IFES](https://serra.ifes.edu.br/cursos/graduacao/tecnologia-em-sistemas-para-internet)).
-    - Atividade: 4 pontos - Cria um layout responsivo para seu curriculo utlizando os conhecimentos de Flexbox e Grid Layout (Disciplina de Desenvolvimento Front End I do 1º período do curso de Tecnologia em Sistemas para Internet</span>, [IFES](https://serra.ifes.edu.br/cursos/graduacao/tecnologia-em-sistemas-para-internet)): [Repositório](https://github.com/rafael-s-santos/Bachelors-in-Internet-Systems-Technology-IFES/tree/main/1st-semester/Front-End-I/resume-grid-flexbox).
+    - Atividade: 4 pontos - Cria um layout responsivo para seu curriculo utlizando os conhecimentos de Flexbox e Grid Layout (Disciplina de Desenvolvimento Front End I do 1º período do curso de Tecnologia em Sistemas para Internet</span>, [IFES](https://serra.ifes.edu.br/cursos/graduacao/tecnologia-em-sistemas-para-internet)): [Repositório](https://github.com/rafael-s-santos/Internet-Systems-Technology-IFES/tree/main/1st-semester/Front-End-I/resume-grid-flexbox).
 
 - **03/11/2024**
     - CSS Grid Layout (Disciplina de Desenvolvimento Front End I do 1º período do curso de Tecnologia em Sistemas para Internet, [IFES](https://serra.ifes.edu.br/cursos/graduacao/tecnologia-em-sistemas-para-internet)).
