@@ -33,7 +33,7 @@ Este é um log de aprendizado, atualizado continuamente, onde registro meu progr
 - **05/11/2024**
     - Essential Grammar in Use: Unit 10	- was / were.
     - Busuu: Parte do módulo 10 (Trabalhos).
-    - Anki: Revisão de 15 palavras e inclusão de 10 palavras.
+    - Anki: Revisão de 15 frases e inclusão de 10 frases.
     - <span style="color:red">Learn Live:</span> Automatização com GitHub Actions - Github GitHub Foundations Certification <span style="color:red">2/4</span> ([Microsoft Reactor ](https://www.youtube.com/watch?v=ZG2Lm0-_N78&t=3663s&ab_channel=MicrosoftReactor)).
     - Seção2: Introdution to HTML ([The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOoq-3n_8CfmVAjQEAPZ4BgsWmAtNz6DqKhOsdH3AXdhUw91W9WFk&couponCode=LETSLEARNNOW)).
 
