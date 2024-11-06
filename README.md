@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    <strong>📝 💻 Um registro contínuo da minha jornada de aprendizado em desenvolvimento web e tecnologias relacionadas.</strong>
+    <strong>📝 💻 Um registro contínuo da minha jornada de aprendizado completa, com foco em desenvolvimento web e tecnologias relacionadas.</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 Este é um log de aprendizado, atualizado continuamente, onde registro meu progresso em desenvolvimento web e outras tecnologias. As entradas estão organizadas por ano, mês e dia para facilitar a navegação.
 
 ## 📌 Conteúdo
-
+                 
 - [📅 2024](#2024)
 - [📂 Principais Fontes de Estudo](#fontes-de-estudo)
 
@@ -64,13 +64,13 @@ Embora nem tudo esteja registrado, pretendo documentar aqui a maior parte das fo
 </summary>
 
 - **1º Período (330 horas)**
-    | Disciplinas                                  | Carga Horária | Progresso |
-    |----------------------------------------------|---------------|-----------|
-    | Desenvolvimento Front End I                  | 60h           | ⬜        |
-    | Trabalhos Colaborativos e Mídias Digitais    | 60h           | ⬜        |
-    | Fundamentos de Matemática para Tec. da Informação | 75h      | ⬜        |
-    | Introdução à Programação                     | 75h           | ⬜        |
-    | Lógica Digital e Organização de Computadores | 60h           | ⬜        |
+    | Disciplinas                                       | Carga Horária | Progresso |
+    |---------------------------------------------------|---------------|-----------|
+    | Desenvolvimento Front End I                       | 60h           | ⬜        |
+    | Trabalhos Colaborativos e Mídias Digitais         | 60h           | ⬜        |
+    | Fundamentos de Matemática para Tec. da Informação | 75h           | ⬜        |
+    | Introdução à Programação                          | 75h           | ⬜        |
+    | Lógica Digital e Organização de Computadores      | 60h           | ⬜        |
 
 - **2º Período (330 horas)**
     | Disciplinas                                  | Carga Horária | Progresso |
@@ -79,7 +79,7 @@ Embora nem tudo esteja registrado, pretendo documentar aqui a maior parte das fo
     | Experiência do Usuário                       | 60h           | ⬜        |
     | Análise e Projeto de Sistemas                | 60h           | ⬜        |
     | Estrutura de Dados                           | 75h           | ⬜        |
-    | Sistemas Operacionais                        | 60h           | ⬜ 
+    | Sistemas Operacionais                        | 60h           | ⬜        |
 
 - **3º Período (360 horas)**
     | Disciplinas                                  | Carga Horária | Progresso |
@@ -109,13 +109,88 @@ Embora nem tudo esteja registrado, pretendo documentar aqui a maior parte das fo
     | Desenvolvimento de aplicativos II            | 75h           | ⬜ 
 
 - **6º Período (300 horas)**
-    | Disciplinas                                  | Carga Horária | Progresso |
-    |----------------------------------------------|---------------|-----------|
-    | Computação em Nuvem                          | 60h           | ⬜        |
-    | Teste e Segurança de Software                | 60h           | ⬜        |
-    | Projeto de Extensão III                      | 60h           | ⬜        |
+    | Disciplinas                                           | Carga Horária | Progresso |
+    |-------------------------------------------------------|---------------|-----------|
+    | Computação em Nuvem                                   | 60h           | ⬜        |
+    | Teste e Segurança de Software                         | 60h           | ⬜        |
+    | Projeto de Extensão III                               | 60h           | ⬜        |
     | Fundamentos Sociais e de Lesgislação para Tec. da Inf.| 60h           | ⬜        |
-    | Empreendedorismo e Marketing em Tec. da Inf. | 60h           | ⬜ 
+    | Empreendedorismo e Marketing em Tec. da Inf.          | 60h           | ⬜        |
+</details>
+
+<details>
+<summary><strong>🎓 Tecnólogo em Eletrônica Industrial</strong>
+<p>ENIAC -  Centro Universitário de Excelência.</p>
+</summary>
+
+- **1º Período**
+    | Disciplinas                                            | Progresso |
+    |--------------------------------------------------------|-----------|
+    | Comunicação                                            | ✅        |
+    | Desenvolvimento de Carreiras                           | ✅        |
+    | Matemática                                             | ⬜        |
+    | Oficina de Competências Profissionais - Engenharias    | ✅        |
+    | Oficina de Desenvolvimento de Habilidades Básicas      | ✅        |
+    | Projeto de Empreendedorismo                            | ⬜        |
+    | Tecnologia                                             | ⬜        |
+
+- **2º Período**
+    | Disciplinas                                      | Progresso |
+    |--------------------------------------------------|-----------|
+    | Energias Renováveis                              | ⬜        |
+    | Modelagem e Solução de Problemas                 | ⬜        |
+    | Mundo 4.0 e Inovação                             | ⬜        |
+    | Projeto em Energias Renováveis e Sustentabilidade| ⬜        |
+    | Tecnologia Gráfica                               | ⬜        |
+    | Tópicos Especiais em Energias Renováveis         | ⬜        |
+
+- **3º Período**
+    | Disciplinas                                      | Progresso |
+    |--------------------------------------------------|-----------|
+    | Circuitos Elétricos                              | ⬜        |
+    | Eletrônica Analógica                             | ⬜        |
+    | Eletrônica Digital                               | ⬜        |
+    | Instalações Elétricas                            | ⬜        |
+    | Projeto de Eletrônica Básica                     | ⬜        |
+    | Sensores Industriais                             | ⬜        |
+    | Tópicos Especiais em Eletrônica Básica           | ⬜        |
+
+- **4º Período**
+    | Disciplinas                                      | Progresso |
+    |--------------------------------------------------|-----------|
+    | Eletrônica Aplicada                              | ⬜        |
+    | Eletrônica Industrial                            | ⬜        |
+    | Máquinas Elétricas                               | ⬜        |
+    | Materiais Eletroeletrônicos                      | ⬜        |
+    | Programação de Computadores                      | ⬜        |
+    | Projeto de Eletrônica Aplicada                   | ⬜        |
+    | Tópicos Especiais em Eletrônica Aplicada         | ⬜        |
+
+- **5º Período**
+    | Disciplinas                                      | Progresso |
+    |--------------------------------------------------|-----------|
+    | Controladores Lógicos                            | ⬜        |
+    | Geração, Transmissão e Distribuição de Energia   | ⬜        |
+    | Microcontroladores                               | ⬜        |
+    | Projeto de Automação e Controle                  | ⬜        |
+    | Redes Industriais                                | ⬜        |
+    | Sistemas Digitais                                | ⬜        |
+    | Tópicos Especiais em Automação e Controle        | ⬜        |
+
+- **6º Período**
+    | Disciplinas                                           | Progresso |
+    |-------------------------------------------------------|-----------|
+    | Atividades Complementares                             | ⬜        |
+    | Comunicação Analógica                                 | ⬜        |
+    | Eletromagnetismo                                      | ⬜        |
+    | Estágio Supervisionado - Engenharias                  | ⬜        |
+    | Higiene e Segurança no Trabalho                       | ⬜        |
+    | Práticas Profissionais - Engenharias                  | ⬜        |
+    | Processamento Digital de Sinais                       | ⬜        |
+    | Projeto de Telecomunicações                           | ⬜        |
+    | Tópicos Especiais em Telecomunicações                 | ⬜        |
+    | Transmissão Digital                                   | ⬜        |
+
 </details>
 
 <details>
@@ -213,18 +288,18 @@ Embora nem tudo esteja registrado, pretendo documentar aqui a maior parte das fo
 </summary>
 
 -
-    | Recurso                                     | Progresso |
-    |---------------------------------------------|-----------|
-    |  Capítulo 01 - E no começo, havia o navegador| ⬜        |
+    | Recurso                                                    | Progresso |
+    |------------------------------------------------------------|-----------|
+    |  Capítulo 01 - E no começo, havia o navegador              | ⬜        |
     |  Capítulo 02 - O sistema operacional e a resolução de nomes| ⬜        |
-    |  Capítulo 03 - Resolução de nomes na rede   | ⬜        |
-    |  Capítulo 04 - Transferindo hypertexto      | ⬜        |    
-    |  Capítulo 05 - HTTPS e sua segurança        | ⬜        |   
-    |  Capítulo 06 - Para a internet e além!      | ⬜        |   
-    |  Capítulo 07 - Servidor web                 | ⬜        |   
-    |  Capítulo 08 - O framework e a aplicação    | ⬜        |   
-    |  Capítulo 09 - De volta ao navegador        | ⬜        |   
-    |  Capítulo 10 - Além dessa requisição web    | ⬜        |   
+    |  Capítulo 03 - Resolução de nomes na rede                  | ⬜        |
+    |  Capítulo 04 - Transferindo hypertexto                     | ⬜        |    
+    |  Capítulo 05 - HTTPS e sua segurança                       | ⬜        |   
+    |  Capítulo 06 - Para a internet e além!                     | ⬜        |   
+    |  Capítulo 07 - Servidor web                                | ⬜        |   
+    |  Capítulo 08 - O framework e a aplicação                   | ⬜        |   
+    |  Capítulo 09 - De volta ao navegador                       | ⬜        |   
+    |  Capítulo 10 - Além dessa requisição web                   | ⬜        |   
 </details>
 
 <details>
@@ -233,122 +308,122 @@ Embora nem tudo esteja registrado, pretendo documentar aqui a maior parte das fo
 </summary>
 
 - **Unidades**
-    | Unidade      | Tópico                                                           | Progresso |
-    |--------------|------------------------------------------------------------------|-----------|
-    | Unit 1       | am / is / are                                                    | ✅        |
-    | Unit 2       | am / is / are (questions)                                        | ✅        |
-    | Unit 3       | I am doing (present continuous)                                  | ✅        |
-    | Unit 4       | are you doing? (present continuous questions)                    | ✅        |
-    | Unit 5       | I do / work / like (present simple)                              | ✅        |
-    | Unit 6       | I don’t... (present simple negative)                             | ✅        |
-    | Unit 7       | Do you...? (present simple questions)                            | ✅        |
-    | Unit 8       | I am doing and I do (present continuous and present simple)      | ✅        |
-    | Unit 9       | I have... / I’ve got...                                          | ✅        |
-    | Unit 10      | was / were                                                       | ✅        |
-    | Unit 11      | worked / got / went etc. (past simple)                           | ⬜        |
-    | Unit 12      | I didn’t... Did you...? (past simple negative and questions)     | ⬜        |
-    | Unit 13      | I was doing (past continuous)                                    | ⬜        |
-    | Unit 14      | I was doing and I did (past continuous and past simple)          | ⬜        |
-    | Unit 15      | I have done (present perfect 1)                                  | ⬜        |
-    | Unit 16      | I’ve just... I’ve already... I haven’t... yet (present perfect 2)| ⬜        |
-    | Unit 17      | Have you ever...? (present perfect 3)                            | ⬜        |
-    | Unit 18      | How long have you...? (present perfect 4)                        | ⬜        |
-    | Unit 19      | for / since / ago                                                | ⬜        |
-    | Unit 20      | I have done and I did (present perfect and past simple)          | ⬜        |
-    | Unit 21      | is done / was done (passive 1)                                   | ⬜        |
-    | Unit 22      | is being done / has been done (passive 2)                        | ⬜        |
-    | Unit 23      | be / have / do in present and past tenses                        | ⬜        |
-    | Unit 24      | Regular and irregular verbs                                      | ⬜        |
-    | Unit 25      | I used to...                                                     | ⬜        |
-    | Unit 26      | What are you doing tomorrow?                                     | ⬜        |
-    | Unit 27      | I’m going to...                                                  | ⬜        |
-    | Unit 28      | will / shall (1)                                                 | ⬜        |
-    | Unit 29      | will / shall (2)                                                 | ⬜        |
-    | Unit 30      | might                                                            | ⬜        |
-    | Unit 31      | can and could                                                    | ⬜        |
-    | Unit 32      | must / mustn’t / needn’t                                         | ⬜        |
-    | Unit 33      | should                                                           | ⬜        |
-    | Unit 34      | I have to...                                                     | ⬜        |
-    | Unit 35      | Would you like...? I’d like...                                   | ⬜        |
-    | Unit 36      | there is / there are                                             | ⬜        |
-    | Unit 37      | there was / there were / there has / have been / there will be   | ⬜        |
-    | Unit 38      | It...                                                            | ⬜        |
-    | Unit 39      | I am / I don’t etc.                                              | ⬜        |
-    | Unit 40      | Have you? Are you? Don’t you? etc.                               | ⬜        |
-    | Unit 41      | too / either / so am I / neither do I etc.                       | ⬜        |
-    | Unit 42      | isn’t / haven’t / don’t etc. (negatives)                         | ⬜        |
-    | Unit 43      | is it...? have you...? do they...? etc. (questions 1)            | ⬜        |
-    | Unit 44      | Who saw you? Who did you see? (questions 2)                      | ⬜        |
-    | Unit 45      | Who is she talking to? What is it like? (questions 3)            | ⬜        |
-    | Unit 46      | What...? Which...? How...?                                       | ⬜        |
-    | Unit 47      | How long does it take...?                                        | ⬜        |
-    | Unit 48      | Do you know where...? I don’t know what... etc.                  | ⬜        |
-    | Unit 49      | She said that... He told me that...                              | ⬜        |
-    | Unit 50      | work / working / go / going / do / doing                         | ⬜        |
-    | Unit 51      | to... (I want to do) and -ing (I enjoy doing)                    | ⬜        |
-    | Unit 52      | I want you to... I told you to...                                | ⬜        |
-    | Unit 53      | I went to the shop to...                                         | ⬜        |
-    | Unit 54      | go to... / go on... / go for... / go -ing                        | ⬜        |
-    | Unit 55      | get                                                              | ⬜        |
-    | Unit 56      | do and make                                                      | ⬜        |
-    | Unit 57      | have                                                             | ⬜        |
-    | Unit 58      | I / me / he / him / they / them etc.                             | ⬜        |
-    | Unit 59      | my / his / their etc.                                            | ⬜        |
-    | Unit 60      | Whose is this? It’s mine / yours / hers etc.                     | ⬜        |
-    | Unit 61      | I / me / my / mine                                               | ⬜        |
-    | Unit 62      | myself / yourself / themselves etc.                              | ⬜        |
-    | Unit 63      | -'s (Ann’s camera / my brother’s car) etc.                       | ⬜        |
-    | Unit 64      | a / an                                                           | ⬜        |
-    | Unit 65      | flower(s) / bus(es) (singular and plural)                        | ⬜        |
-    | Unit 66      | a car / some money (countable/uncountable 1)                     | ⬜        |
-    | Unit 67      | a car / some money (countable/uncountable 2)                     | ⬜        |
-    | Unit 68      | a / an and the                                                   | ⬜        |
-    | Unit 69      | the...                                                           | ⬜        |
-    | Unit 70      | go to work / go home / go to the cinema                          | ⬜        |
-    | Unit 71      | I like music / I hate exams                                      | ⬜        |
-    | Unit 72      | the... (names of places)                                         | ⬜        |
-    | Unit 73      | this / that / these / those                                      | ⬜        |
-    | Unit 74      | one / ones                                                       | ⬜        |
-    | Unit 75      | some and any                                                     | ⬜        |
-    | Unit 76      | not + any / no / none                                            | ⬜        |
-    | Unit 77      | not + anybody / anyone / anything / nobody / no-one / nothing    | ⬜        |
-    | Unit 78      | somebody / anything / nowhere etc.                               | ⬜        |
-    | Unit 79      | every and all                                                    | ⬜        |
-    | Unit 80      | all / most / some / any / no / none                              | ⬜        |
-    | Unit 81      | both / either / neither                                          | ⬜        |
-    | Unit 82      | a lot / much / many                                              | ⬜        |
-    | Unit 83      | (a) little / (a) few                                             | ⬜        |
-    | Unit 84      | old / nice / interesting etc. (adjectives)                       | ⬜        |
-    | Unit 85      | quickly / badly / suddenly etc. (adverbs)                        | ⬜        |
-    | Unit 86      | old / older / expensive / more expensive                         | ⬜        |
-    | Unit 87      | older than... / more expensive than...                           | ⬜        |
-    | Unit 88      | not as... as                                                     | ⬜        |
-    | Unit 89      | the oldest / the most expensive                                  | ⬜        |
-    | Unit 90      | enough                                                           | ⬜        |
-    | Unit 91      | too                                                              | ⬜        |    
-    | Unit 92      | He speaks English very well, (word order 1)                      | ⬜        |
-    | Unit 93      | always/usually/often etc. (word order 2)                         | ⬜        |
-    | Unit 94      | still yet already                                                | ⬜        |
-    | Unit 95      | Give me that book! Give it to me!                                | ⬜        |
-    | Unit 96      | at 8 o’clock on Monday in April                                  | ⬜        |
-    | Unit 97      | from ... to until since for                                      | ⬜        |
-    | Unit 98      | before after during while                                        | ⬜        |
-    | Unit 99      | in at on (places 1)                                              | ⬜        |
-    | Unit 100     | in at on (places 2)                                              | ⬜        |
-    | Unit 101     | to in at (places 3)                                              | ⬜        |
-    | Unit 102     | under behind opposite etc. (prepositions)                        | ⬜        |
-    | Unit 103     | up over through etc. (prepositions)                              | ⬜        |
-    | Unit 104     | on at by with about (prepositions)                               | ⬜        |
-    | Unit 105     | afraid of ... good at ... etc. preposition H-'-ing (good at -ing etc.) | ⬜         |
-    | Unit 106     | listen to ... look at ... etc. (verb + preposition)              | ⬜        |
-    | Unit 107     | go in fall off run away etc. (phrasal verbs 1)                   | ⬜        |
-    | Unit 108     | put on your shoes put your shoes on (phrasal verbs 2)            | ⬜        |
-    | Unit 109     | and but or so because                                            | ⬜        |
-    | Unit 110     | When ...                                                         | ⬜        |
-    | Unit 111     | If we go ... If you see ... etc.                                 | ⬜        |
-    | Unit 112     | If I had ... If we went ... etc.                                 | ⬜        |
-    | Unit 113     | a person who ... a thing that/which ... (relative clauses 1)     | ⬜        |
-    | Unit 114     | the people we met the hotel you stayed at (relative clauses 2)   | ⬜        |
+    | Unidade      | Tópico                                                                 | Progresso |
+    |--------------|------------------------------------------------------------------------|-----------|
+    | Unit 1       | am / is / are                                                          | ✅        |
+    | Unit 2       | am / is / are (questions)                                              | ✅        |
+    | Unit 3       | I am doing (present continuous)                                        | ✅        |
+    | Unit 4       | are you doing? (present continuous questions)                          | ✅        |
+    | Unit 5       | I do / work / like (present simple)                                    | ✅        |
+    | Unit 6       | I don’t... (present simple negative)                                   | ✅        |
+    | Unit 7       | Do you...? (present simple questions)                                  | ✅        |
+    | Unit 8       | I am doing and I do (present continuous and present simple)            | ✅        |
+    | Unit 9       | I have... / I’ve got...                                                | ✅        |
+    | Unit 10      | was / were                                                             | ✅        |
+    | Unit 11      | worked / got / went etc. (past simple)                                 | ⬜        |
+    | Unit 12      | I didn’t... Did you...? (past simple negative and questions)           | ⬜        |
+    | Unit 13      | I was doing (past continuous)                                          | ⬜        |
+    | Unit 14      | I was doing and I did (past continuous and past simple)                | ⬜        |
+    | Unit 15      | I have done (present perfect 1)                                        | ⬜        |
+    | Unit 16      | I’ve just... I’ve already... I haven’t... yet (present perfect 2)      | ⬜        |
+    | Unit 17      | Have you ever...? (present perfect 3)                                  | ⬜        |
+    | Unit 18      | How long have you...? (present perfect 4)                              | ⬜        |
+    | Unit 19      | for / since / ago                                                      | ⬜        |
+    | Unit 20      | I have done and I did (present perfect and past simple)                | ⬜        |
+    | Unit 21      | is done / was done (passive 1)                                         | ⬜        |
+    | Unit 22      | is being done / has been done (passive 2)                              | ⬜        |
+    | Unit 23      | be / have / do in present and past tenses                              | ⬜        |
+    | Unit 24      | Regular and irregular verbs                                            | ⬜        |
+    | Unit 25      | I used to...                                                           | ⬜        |
+    | Unit 26      | What are you doing tomorrow?                                           | ⬜        |
+    | Unit 27      | I’m going to...                                                        | ⬜        |
+    | Unit 28      | will / shall (1)                                                       | ⬜        |
+    | Unit 29      | will / shall (2)                                                       | ⬜        |
+    | Unit 30      | might                                                                  | ⬜        |
+    | Unit 31      | can and could                                                          | ⬜        |
+    | Unit 32      | must / mustn’t / needn’t                                               | ⬜        |
+    | Unit 33      | should                                                                 | ⬜        |
+    | Unit 34      | I have to...                                                           | ⬜        |
+    | Unit 35      | Would you like...? I’d like...                                         | ⬜        |
+    | Unit 36      | there is / there are                                                   | ⬜        |
+    | Unit 37      | there was / there were / there has / have been / there will be         | ⬜        |
+    | Unit 38      | It...                                                                  | ⬜        |
+    | Unit 39      | I am / I don’t etc.                                                    | ⬜        |
+    | Unit 40      | Have you? Are you? Don’t you? etc.                                     | ⬜        |
+    | Unit 41      | too / either / so am I / neither do I etc.                             | ⬜        |
+    | Unit 42      | isn’t / haven’t / don’t etc. (negatives)                               | ⬜        |
+    | Unit 43      | is it...? have you...? do they...? etc. (questions 1)                  | ⬜        |
+    | Unit 44      | Who saw you? Who did you see? (questions 2)                            | ⬜        |
+    | Unit 45      | Who is she talking to? What is it like? (questions 3)                  | ⬜        |
+    | Unit 46      | What...? Which...? How...?                                             | ⬜        |
+    | Unit 47      | How long does it take...?                                              | ⬜        |
+    | Unit 48      | Do you know where...? I don’t know what... etc.                        | ⬜        |
+    | Unit 49      | She said that... He told me that...                                    | ⬜        |
+    | Unit 50      | work / working / go / going / do / doing                               | ⬜        |
+    | Unit 51      | to... (I want to do) and -ing (I enjoy doing)                          | ⬜        |
+    | Unit 52      | I want you to... I told you to...                                      | ⬜        |
+    | Unit 53      | I went to the shop to...                                               | ⬜        |
+    | Unit 54      | go to... / go on... / go for... / go -ing                              | ⬜        |
+    | Unit 55      | get                                                                    | ⬜        |
+    | Unit 56      | do and make                                                            | ⬜        |
+    | Unit 57      | have                                                                   | ⬜        |
+    | Unit 58      | I / me / he / him / they / them etc.                                   | ⬜        |
+    | Unit 59      | my / his / their etc.                                                  | ⬜        |
+    | Unit 60      | Whose is this? It’s mine / yours / hers etc.                           | ⬜        |
+    | Unit 61      | I / me / my / mine                                                     | ⬜        |
+    | Unit 62      | myself / yourself / themselves etc.                                    | ⬜        |
+    | Unit 63      | -'s (Ann’s camera / my brother’s car) etc.                             | ⬜        |
+    | Unit 64      | a / an                                                                 | ⬜        |
+    | Unit 65      | flower(s) / bus(es) (singular and plural)                              | ⬜        |
+    | Unit 66      | a car / some money (countable/uncountable 1)                           | ⬜        |
+    | Unit 67      | a car / some money (countable/uncountable 2)                           | ⬜        |
+    | Unit 68      | a / an and the                                                         | ⬜        |
+    | Unit 69      | the...                                                                 | ⬜        |
+    | Unit 70      | go to work / go home / go to the cinema                                | ⬜        |
+    | Unit 71      | I like music / I hate exams                                            | ⬜        |
+    | Unit 72      | the... (names of places)                                               | ⬜        |
+    | Unit 73      | this / that / these / those                                            | ⬜        |
+    | Unit 74      | one / ones                                                             | ⬜        |
+    | Unit 75      | some and any                                                           | ⬜        |
+    | Unit 76      | not + any / no / none                                                  | ⬜        |
+    | Unit 77      | not + anybody / anyone / anything / nobody / no-one / nothing          | ⬜        |
+    | Unit 78      | somebody / anything / nowhere etc.                                     | ⬜        |
+    | Unit 79      | every and all                                                          | ⬜        |
+    | Unit 80      | all / most / some / any / no / none                                    | ⬜        |
+    | Unit 81      | both / either / neither                                                | ⬜        |
+    | Unit 82      | a lot / much / many                                                    | ⬜        |
+    | Unit 83      | (a) little / (a) few                                                   | ⬜        |
+    | Unit 84      | old / nice / interesting etc. (adjectives)                             | ⬜        |
+    | Unit 85      | quickly / badly / suddenly etc. (adverbs)                              | ⬜        |
+    | Unit 86      | old / older / expensive / more expensive                               | ⬜        |
+    | Unit 87      | older than... / more expensive than...                                 | ⬜        |
+    | Unit 88      | not as... as                                                           | ⬜        |
+    | Unit 89      | the oldest / the most expensive                                        | ⬜        |
+    | Unit 90      | enough                                                                 | ⬜        |
+    | Unit 91      | too                                                                    | ⬜        |    
+    | Unit 92      | He speaks English very well, (word order 1)                            | ⬜        |
+    | Unit 93      | always/usually/often etc. (word order 2)                               | ⬜        |
+    | Unit 94      | still yet already                                                      | ⬜        |
+    | Unit 95      | Give me that book! Give it to me!                                      | ⬜        |
+    | Unit 96      | at 8 o’clock on Monday in April                                        | ⬜        |
+    | Unit 97      | from ... to until since for                                            | ⬜        |
+    | Unit 98      | before after during while                                              | ⬜        |
+    | Unit 99      | in at on (places 1)                                                    | ⬜        |
+    | Unit 100     | in at on (places 2)                                                    | ⬜        |
+    | Unit 101     | to in at (places 3)                                                    | ⬜        |
+    | Unit 102     | under behind opposite etc. (prepositions)                              | ⬜        |
+    | Unit 103     | up over through etc. (prepositions)                                    | ⬜        |
+    | Unit 104     | on at by with about (prepositions)                                     | ⬜        |
+    | Unit 105     | afraid of ... good at ... etc. preposition H-'-ing (good at -ing etc.) | ⬜        |
+    | Unit 106     | listen to ... look at ... etc. (verb + preposition)                    | ⬜        |
+    | Unit 107     | go in fall off run away etc. (phrasal verbs 1)                         | ⬜        |
+    | Unit 108     | put on your shoes put your shoes on (phrasal verbs 2)                  | ⬜        |
+    | Unit 109     | and but or so because                                                  | ⬜        |
+    | Unit 110     | When ...                                                               | ⬜        |
+    | Unit 111     | If we go ... If you see ... etc.                                       | ⬜        |
+    | Unit 112     | If I had ... If we went ... etc.                                       | ⬜        |
+    | Unit 113     | a person who ... a thing that/which ... (relative clauses 1)           | ⬜        |
+    | Unit 114     | the people we met the hotel you stayed at (relative clauses 2)         | ⬜        |
     
 - **Appendices**
     | Apêndice   | Tópico                                                        | Progresso  |
